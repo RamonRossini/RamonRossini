@@ -1,13 +1,21 @@
-- 👋 Oi, Eu sou o @RamonRossini
-- 👀 Eu tenho interesse em programação para dispositivos móveis, mais especificadamente Android.
-- 🌱 Atualmente eu estou aprendendo Java, mas já tive contato com HTML, CSS, JavaScript, SQL, Python e linguagem C.
-- 💞️ Eu procuro entrar em alguma equipe ou empresa e desenvolver da forma mais eficiente possível.
+## Olá, aqui é o Ramon
+- 👀 Interesse em programação para Web e Mobile
+- 🌱 Estudando o framework Tailwindcss e construindo novos projetos
+- 💞️ Eu procuro o desenvolvimento meu e da equipe que participo de forma mais eficiente e eficaz.
 - 📫 Para me contatar pode ser por:
-     Email: ramonhbonfim@gmail.com
-     Celular: 55 (11)959980352
-     LinkedIn: linkedin.com/in/ramon-henrique-2895891a9
+     LinkedIn: linkedin.com/in/ramon-rossini/
 
-<!---
-RamonRossini/RamonRossini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/ramon-rossini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonRossini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRossini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ramon-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Ramon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Ramon-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Ramon-NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Ramon-PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Ramon-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
